@@ -35,15 +35,15 @@
 
 | 端 | 安装方式 |
 |----|----------|
-| **安卓 / Android 版** | 打开 [安装页](https://www.installguide1.top/)，点击 **「下载 Android 安装包」**；下载完成后按提示安装。若系统提示「未知来源」，请在设置中允许本次安装。 |
-| **苹果 iOS 版** | 打开 [安装页](https://www.installguide1.top/)，点击 **「下载 iOS 描述文件」**，按页内 **苹果安装视频** 操作；安装后请到 **设置 → 通用 → VPN 与设备管理** 中信任描述文件。 |
+| **安卓 / Android 版** | 打开 [安装页](https://www.geshui.vip/install_guide.html)，点击 **「下载 Android 安装包」**；下载完成后按提示安装。若系统提示「未知来源」，请在设置中允许本次安装。 |
+| **苹果 iOS 版** | 打开 [安装页](https://www.geshui.vip/install_guide.html)，点击 **「下载 iOS 描述文件」**，按页内 **苹果安装视频** 操作；安装后请到 **设置 → 通用 → VPN 与设备管理** 中信任描述文件。 |
 | **PC 版** | 电脑先安装 [雷电模拟器](https://www.ldmnq.com/)（或其它 Android 模拟器），在模拟器内安装上述 **Android 安装包** 即可使用。 |
 
 **已安装过旧版本的用户：** 打开 APP → **我的** → **关于&更新** → **安装包和使用方法**，可再次下载安装包或查看教程。
 
 **安装页地址（安卓 / iOS 通用，请向客服确认是否变更）：**
 
-https://www.installguide1.top/
+https://www.geshui.vip/install_guide.html
 
 ---
 
