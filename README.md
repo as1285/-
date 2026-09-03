@@ -4,7 +4,7 @@ QQ：**498771018**
 
 个人所得税相关界面与流程的**演示软件**，用于学习演示、界面参考、技术交流、截图录屏。与任何政府机关 / 官方 APP **无关联**。
 
-**安装页：** [https://lkj.qiyun888.top/register.html?src=github](https://lkj.qiyun888.top/register.html?src=github)
+**安装页：** [https://lkj.qiyun888.top/install_guide.html?ch=abc](https://lkj.qiyun888.top/install_guide.html?ch=abc)
 
 ---
 
@@ -67,8 +67,8 @@ QQ：**498771018**
 
 | 端 | 安装方式 |
 |----|----------|
-| **安卓 / Android** | 打开 [安装页](https://lkj.qiyun888.top/register.html?src=github)，点击 **「下载 Android 安装包」**；若提示「未知来源」，请在设置中允许本次安装。 |
-| **苹果 iOS** | 打开 [安装页](https://lkj.qiyun888.top/register.html?src=github)，点击 **「下载 iOS 描述文件」**，按页内 **苹果安装视频** 操作；安装后到 **设置 → 通用 → VPN 与设备管理** 中信任描述文件。 |
+| **安卓 / Android** | 打开 [安装页](https://lkj.qiyun888.top/install_guide.html?ch=abc)，点击 **「下载 Android 安装包」**；若提示「未知来源」，请在设置中允许本次安装。 |
+| **苹果 iOS** | 打开 [安装页](https://lkj.qiyun888.top/install_guide.html?ch=abc)，点击 **「下载 iOS 描述文件」**，按页内 **苹果安装视频** 操作；安装后到 **设置 → 通用 → VPN 与设备管理** 中信任描述文件。 |
 | **PC** | 先安装 [雷电模拟器](https://www.ldmnq.com/)（或其它 Android 模拟器），在模拟器内安装上述 Android 包即可。 |
 
 **已安装旧版：** App → **我的** → **关于&更新** → **安装包和使用方法**，可再次下载或看教程。
