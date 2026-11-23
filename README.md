@@ -88,7 +88,11 @@ QQ：**498771018**
 
 作用是把你指定的二维码锁定到当前账号。之后在本平台重新开具纳税记录时，右上角使用这张已锁定的码。保存不会改已经生成过的旧图，需要再到「纳税记录开具」重新生成一次。可以再上传覆盖，也可以清除后恢复系统自动出码。
 
-未开通时成图带「演示样例」水印；按页面标价开通后去水印，去水印后同样要重新生成才生效。这只作用于本平台的演示记录，**不是税务机关出具的正式完税证明**。
+未开通时成图带「未激活」水印；按页面标价开通后去水印，去水印后同样要重新生成才生效。这只作用于本平台的演示记录，**不是税务机关出具的正式完税证明**。
+
+生成效果（虚构数据「陈示例」。右上角是查询二维码和验证码；未开通时斜向水印为「未激活」）：
+
+<img src="docs/images/shot-najilu.png" alt="纳税记录与完税二维码演示样张" width="420">
 
 ### 5. 社保参保证明：多省市版式
 
@@ -101,6 +105,55 @@ QQ：**498771018**
 - 江苏权益单明细超长会自动换页；江苏新版式对齐较新的权益记录单标题与参保地展示。广东为省级个人参保证明，陕西为城镇职工基本养老保险参保缴费证明。
 
 未开通生成的 PDF 带「演示样例」水印；开通后可反复生成无水印版本。App 内若不能直接预览或下载，用页面上的「复制到浏览器打开」。
+
+下面是各版式用虚构资料生成的第一页（姓名「陈示例」，带「演示样例」水印，非正式证明）：
+
+<p>
+<strong>浙江</strong><br>
+<img src="docs/images/sbdy-zj.png" alt="浙江社保参保证明演示样张" width="420">
+<strong>深圳</strong><br>
+<img src="docs/images/sbdy-sz.png" alt="深圳社保缴费明细演示样张" width="420">
+</p>
+<p>
+<strong>深圳新</strong><br>
+<img src="docs/images/sbdy-sz_new.png" alt="深圳新参保证明演示样张" width="420">
+<strong>广州</strong><br>
+<img src="docs/images/sbdy-gz.png" alt="广州社保缴费明细演示样张" width="420">
+</p>
+<p>
+<strong>武汉</strong><br>
+<img src="docs/images/sbdy-wh.png" alt="武汉社保参保证明演示样张" width="420">
+<strong>湖南</strong><br>
+<img src="docs/images/sbdy-hn.png" alt="湖南社保参保证明演示样张" width="420">
+</p>
+<p>
+<strong>河南</strong><br>
+<img src="docs/images/sbdy-ha.png" alt="河南社保参保证明演示样张" width="420">
+<strong>江苏</strong><br>
+<img src="docs/images/sbdy-js.png" alt="江苏社会保险权益记录单演示样张" width="420">
+</p>
+<p>
+<strong>江苏新</strong><br>
+<img src="docs/images/sbdy-js_new.png" alt="江苏新社会保险权益记录单演示样张" width="420">
+<strong>北京</strong><br>
+<img src="docs/images/sbdy-bj.png" alt="北京社会保险个人权益记录演示样张" width="420">
+</p>
+<p>
+<strong>上海</strong><br>
+<img src="docs/images/sbdy-sh.png" alt="上海养老保险缴费情况演示样张" width="420">
+<strong>厦门</strong><br>
+<img src="docs/images/sbdy-xm.png" alt="厦门养老缴费明细演示样张" width="420">
+</p>
+<p>
+<strong>四川</strong><br>
+<img src="docs/images/sbdy-sc.png" alt="四川社会保险个人参保证明演示样张" width="420">
+<strong>陕西</strong><br>
+<img src="docs/images/sbdy-sx.png" alt="陕西养老保险参保缴费证明演示样张" width="420">
+</p>
+<p>
+<strong>广东</strong><br>
+<img src="docs/images/sbdy-gd.png" alt="广东社会保险个人参保证明演示样张" width="420">
+</p>
 
 ### 6. 在职 / 离职证明、公积金对账单
 
@@ -163,6 +216,8 @@ QQ：**498771018**
 头像与纳税人识别号、个人信息入口；快捷区含 **家庭成员 / 任职受雇 / 银行卡**；菜单含关怀版、安全中心、帮助中心、**我要咨询**、关于&更新。咨询页里可以激活、维护税务记录，并进入完税二维码、社保、在职离职证明等增值演示。
 
 ### 6. 纳税记录开具
+
+<img src="docs/images/shot-najilu.png" alt="纳税记录与完税二维码演示样张" width="420">
 
 - 选择纳税年度（2019 年至当前年），生成演示版 **纳税记录** 与 **查询验证码**
 - 详情左右滑动翻页；未激活显示「未激活」水印，激活后去除
