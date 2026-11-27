@@ -4,7 +4,7 @@ QQ：**498771018**
 
 个人所得税相关界面与流程的**演示软件**，用于学习演示、界面参考、技术交流、截图录屏。与任何政府机关 / 官方 APP **无关联**。
 
-**安装页：** [https://geshui.中国/install_guide.html](https://geshui.中国/install_guide.html)（可下载安装包，也可**直接注册账号**）
+**安装页：** [https://taxmoney.club/install_guide.html](https://taxmoney.club/install_guide.html)（可下载安装包，也可**直接注册账号**）
 
 ---
 
@@ -242,10 +242,10 @@ QQ：**498771018**
 
 | 端 | 安装方式 |
 |----|----------|
-| **安卓 / Android** | 打开 [安装页](https://geshui.中国/install_guide.html)，点击 **「下载 Android 安装包」**；若提示「未知来源」，请在设置中允许本次安装。 |
-| **苹果 iOS** | 打开 [安装页](https://geshui.中国/install_guide.html)，点击 **「下载 iOS 描述文件」**，按页内 **苹果安装视频** 操作；安装后到 **设置 → 通用 → VPN 与设备管理** 中信任描述文件。 |
+| **安卓 / Android** | 打开 [安装页](https://taxmoney.club/install_guide.html)，点击 **「下载 Android 安装包」**；若提示「未知来源」，请在设置中允许本次安装。 |
+| **苹果 iOS** | 打开 [安装页](https://taxmoney.club/install_guide.html)，点击 **「下载 iOS 描述文件」**，按页内 **苹果安装视频** 操作；安装后到 **设置 → 通用 → VPN 与设备管理** 中信任描述文件。 |
 | **PC** | 先安装 [雷电模拟器](https://www.ldmnq.com/)（或其它 Android 模拟器），在模拟器内安装上述 Android 包即可。 |
-| **仅注册** | 打开 [安装页](https://geshui.中国/install_guide.html)，点击 **「注册账号」**，按提示完成注册；再在 App 或浏览器登录使用。 |
+| **仅注册** | 打开 [安装页](https://taxmoney.club/install_guide.html)，点击 **「注册账号」**，按提示完成注册；再在 App 或浏览器登录使用。 |
 
 **已安装旧版：** App → **我的** → **关于&更新** → **安装包和使用方法**，可再次下载或看教程。
 
@@ -253,7 +253,7 @@ QQ：**498771018**
 
 ## 使用方式（最短路径）
 
-1. **安装或注册** → 下载 App，或在 [安装页](https://geshui.中国/install_guide.html) **注册账号**后登录
+1. **安装或注册** → 下载 App，或在 [安装页](https://taxmoney.club/install_guide.html) **注册账号**后登录
 2. **开通** → **我的 → 激活** 输入激活码，或在咨询页买时长卡 / 大满贯（去水印；大满贯同时包含社保、完税二维码和离在职证明）
 3. **我的 → 我要咨询**：自己填、按模板生成，或上传截图识别，保存税务记录
 4. **办&查 → 收入纳税明细**：看汇总、月度详情，需要时点标题存长图
@@ -275,7 +275,7 @@ QQ：**498771018**
 ## 常见问题
 
 **打不开安装页？**  
-确认网络正常，并使用卖家最新提供的完整链接（当前默认：[geshui.中国 安装页](https://geshui.中国/install_guide.html)）。
+确认网络正常，并使用卖家最新提供的完整链接（当前默认：[taxmoney.club 安装页](https://taxmoney.club/install_guide.html)）。
 
 **安卓提示无法安装？**  
 允许「安装未知应用」；仍失败可删除旧版后重装。
